@@ -16,10 +16,14 @@ Time taken simple: 1.288691 seconds
 ### Numpy and Threads
 ---
 Nearest neighbors:
-Name: Name_64055, Distance: 0.8196007840056115
-Name: Name_72923, Distance: 0.8252453069159721
+
+- Name: Name_64055, Distance: 0.8196007840056115
+- Name: Name_72923, Distance: 0.8252453069159721
+
 Time taken simple with 2 threads: 3.777478 seconds
 Nearest neighbors:
-Name: Name_64055, Distance: 0.8196007840056115
-Name: Name_72923, Distance: 0.8252453069159721
+
+- Name: Name_64055, Distance: 0.8196007840056115
+- Name: Name_72923, Distance: 0.8252453069159721
+
 Time taken simple with 4 threads: 2.392071 seconds
