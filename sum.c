@@ -38,7 +38,7 @@ int main(){
     return 0;
     
 }
-
+// N 100000000
 // Sum of array: 5000015328
 // Time taken with 2 Threads: 0.143000s
 // Sum of array: 5000015328

@@ -76,7 +76,7 @@ int main(){
 // Column B (L): 500
 // Time taken with 2 Threads: 0.420000s
 // Time taken with 4 Threads: 0.364000s
-// Time taken with 2 Threads: 0.249000s
+// Time taken with 6 Threads: 0.249000s
 // Time taken with 8 Threads: 0.249000s
 // Row A (N): 1000
 // Column A (Row B, M): 2000
