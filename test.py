@@ -14,7 +14,7 @@ def generate_fake_data(num_entries=100000, embedding_length=512):
     return fake_data
 
 if __name__ == '__main__':
-    db = PickleDB('hieu2.db') # 50000 samples
+    db = PickleDB('hieu.db') # 50000 samples
     # db = PickleDB('hieu2.db') # 100000 samples
     # fake_data = generate_fake_data()
 
