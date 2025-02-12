@@ -12,7 +12,7 @@ This repository presents a comparison of different parallel processing technique
 
 ---
 
-## 2. NumPy and Threads
+## 2. NumPy and Threads (100000 Samples)
 
 ### Nearest Neighbors Results:
 #### Using 2 Threads:
